@@ -1,7 +1,7 @@
 # Moving Average Crossover Trading Strategy
 
 This project implements a simple **moving average crossover trading strategy** using Python.  
-The script fetches historical stock data from Yahoo Finance, computes short-term and long-term moving averages, and generates **buy/sell signals** based on crossover points. A visualization of the stock price, moving averages, and signals is plotted using Matplotlib.
+The script fetches historical stock data from Yahoo Finance, computes short term and long term moving averages, and generates **buy or sell signals** based on crossover points. A visualization of the stock price, moving averages, and signals is plotted using Matplotlib.
 
 ---
 
